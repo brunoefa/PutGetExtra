@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Sui</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RockBee</string>
+    <string name="edit_message">Digite uma mensagem</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_message">MessageActivity</string>
+
+</resources>
