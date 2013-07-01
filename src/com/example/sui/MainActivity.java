@@ -27,6 +27,8 @@ public class MainActivity extends Activity {
 		Intent intent = new Intent(this, MessageActivity.class);
 		EditText editText = (EditText) findViewById(R.id.edit_message);
 		String message = editText.getText().toString();
+		
+		//Teste que verifica se foi digitado algum conteúdo no Edit Text
 		if ("".equals(message)) {
 			editText.setHint("É preciso digitar algo!");
 		}else {
